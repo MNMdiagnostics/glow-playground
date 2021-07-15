@@ -1,3 +1,5 @@
 data/
 delta/
 metastore_db/
+.venv
+.ipynb_checkpoints/
