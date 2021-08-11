@@ -1,3 +1,5 @@
+source .venv/bin/activate
+
 export SPARK_HOME=`find_spark_home.py`
 
 export PYSPARK_DRIVER_PYTHON=jupyter
